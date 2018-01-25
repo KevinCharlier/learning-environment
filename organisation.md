@@ -1,1 +1,6 @@
-<p> Afin d'etre bien organiser dans notre espace de travail, il serait bien d'établir un cahier des charges sur un tableau à la vue de tous. </p>
+Comment s'organiser ?
+==
+
+Afin d'etre bien organiser et de se sentir bien, il faudrait déterminer un cahier des charges sur un tableau à la vue de tous. Ceci nous permettra de mieux collaborer et renforcera encore plus notre esprit d'équipe. 
+
+Pendant les pauses, il est également parfois préférable de ne pas tout ramener au code, pour y préserver l'aspect de relaxation et de tranquilité. Et à l'inverse, ne pas parler de nos considérations personelles en dehors de celles ci.
